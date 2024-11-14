@@ -1,6 +1,6 @@
 # Keep Yourself Safe
 
-## Screenshot:
+## Screenshot
 <img src="Screen.png"  width="500" height="600" alt="screen.png">
 
 ## How to install

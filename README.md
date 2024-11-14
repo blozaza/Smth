@@ -11,4 +11,4 @@
 
 
 ## Boot
-<p> After installing, you can boot it with command <p/> ```KYS``` <p> in cmd <p/>
+<p> After installing, you can boot it with command >KYS in cmd <p/>

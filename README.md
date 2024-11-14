@@ -9,4 +9,4 @@
 ```curl -o c:\windows\kys.bat https://raw.githubusercontent.com/blozaza/Smth/main/kys.bat```
 
 ## Boot
-<p> After installing, you can boot it with command `KYS` in cmd
+<p> After installing, you can boot it with command <u> KYS </u> in cmd

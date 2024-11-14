@@ -1,7 +1,7 @@
 # Keep Yourself Safe
 
 ## Images:
-<img scr="screen.png" weight="" height="">
+<img scr="/screen.png" weight="" height="">
 
 ## How to install
 <p> You just need open cmd with admin perms, and paste next command<p/>

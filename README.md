@@ -1,7 +1,7 @@
 # Keep Yourself Safe
 
 ## Screenshot:
-<img scr="main/Smth/Screen.png">
+<img scr="/main/Screen.png">
 
 ## How to install
 <p> You just need open cmd with admin perms, and paste next command<p/>

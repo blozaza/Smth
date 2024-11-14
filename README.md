@@ -1,7 +1,7 @@
 # Keep Yourself Safe
 
-## Images:
-<img scr="/screen.png" weight="" height="">
+## Screenshot:
+<img scr="main/Smth/Screen.png">
 
 ## How to install
 <p> You just need open cmd with admin perms, and paste next command<p/>
@@ -10,5 +10,5 @@
 ### Notice that file will be stored in Windows packpage
 
 
-## Boot
-<p> After installing, you can boot it with command KYS in cmd <p/>
+## Run
+<p> After installing, you can run it with command KYS in cmd <p/>

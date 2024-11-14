@@ -18,7 +18,7 @@
 
 ```del c:\windows\kys.bat```
 
-<p> Or by your own by moving to c:\windows\ and delete kys.bat file </p>
+<p> Or by your own by moving to `c:\windows\` and delete `kys.bat` file </p>
 
 <h2>Source</h2>
 <p> All images and text were generated using open source services that do not require mention. </p>

@@ -1,6 +1,5 @@
 <h1> Keep Yourself Safe </h1>
 
-<div style="background-image: url(/Smth/main/noise.png)">
 <h2> Screenshot </h2>
 <img src="Screen.png"  width="500" height="600" alt="screen.png">
 
@@ -23,6 +22,5 @@
 
 <h2>Source</h2>
 <p> All images and text were generated using open source services that do not require mention. </p>
-</div>
 
 > :P
